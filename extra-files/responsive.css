@@ -132,6 +132,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus {
   padding: 12px;
   width: 100%;
   height: auto;
+  border-radius: .25rem;
   -webkit-border-radius: .25rem;
 }
 
@@ -162,6 +163,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus {
 /* login */
 
 .login {
+  border-radius: .25rem;
   -webkit-border-radius: .25rem;
   min-height: 0;
   transform: translate(0px, -196px);
@@ -175,6 +177,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus {
 
 .menu {
   margin-bottom: 8px;
+  border-radius: .25rem;
   -webkit-border-radius: .25rem;
 }
 
@@ -185,6 +188,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus {
 /* content */
 
 .content {
+  border-radius: .25rem;
   -webkit-border-radius: .25rem;
   overflow-x: auto;
   min-height: 0;

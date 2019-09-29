@@ -3,11 +3,18 @@
   "name": "Studierendatenbank der Informatik",
   "background_color": "#003366",
   "theme_color": "#003366",
-  "icons": [{
-    "src": "studidb.png",
-    "type": "image/png",
-    "sizes": "128x128"
-  }],
+  "icons": [
+    {
+      "src": "studidb-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "studidb-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
   "start_url": "/studierende/login",
   "display": "standalone",
   "orientation": "any"
