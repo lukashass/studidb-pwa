@@ -4,7 +4,7 @@
   "background_color": "#003366",
   "theme_color": "#003366",
   "icons": [{
-    "src": "sodom.png",
+    "src": "studidb.png",
     "type": "image/png",
     "sizes": "128x128"
   }],
