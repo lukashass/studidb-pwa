@@ -210,15 +210,15 @@ input[type=text]:focus, input[type=password]:focus, select:focus {
     padding-left: 5px;
   }
   .content {
-    display: inline-block;
+    display: block;
     width: calc(80% - 52px) !important;
-    vertical-align: top;
+    float: left;
   }
   .login {
-    display: inline-block;
+    display: block;
     width: calc(80% - 52px) !important;
-    vertical-align: top;
     transform: translate(0);
+    float: right;
   }
 }
 
