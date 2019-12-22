@@ -212,7 +212,7 @@ input[type=text]:focus, input[type=password]:focus, select:focus {
   .content {
     display: block;
     width: calc(80% - 52px) !important;
-    float: left;
+    float: right;
   }
   .login {
     display: block;
