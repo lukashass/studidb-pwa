@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:1.19.10-alpine
 
 COPY entrypoint.sh /
 COPY nginx.conf /etc/nginx/nginx.conf.template
